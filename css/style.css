@@ -1,0 +1,35 @@
+
+
+html, body {
+  overflow-x: hidden;
+}
+
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+* {
+  font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
+  color: #343434;
+}
+
+p {
+  font-size: 0.9rem;
+}
+
+.gray {
+  color: #707076;
+}
+
+h6 {
+  line-height: 1.4rem;
+}
+
+.lh-100 { line-height: 1; }
+.lh-125 { line-height: 1.25; }
+.lh-150 { line-height: 1.5; }
+
+.btn-version {
+  border: 1px solid black;
+}
